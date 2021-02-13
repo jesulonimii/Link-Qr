@@ -1,0 +1,130 @@
+<resources>
+    <string name="app_name">Link-QR</string>
+    <string name="app_version">v1.0</string>
+    <string name="copyright">Copyright © 2021 <b>Erlite</b>.</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="scannedTextHere">Scanned text would appear here...</string>
+    <string name="foundBug">
+        Found a bug? Please
+    </string>
+    <string name="developer">
+        Developed by <b>Erlite</b>
+    </string>
+    <string name="license">
+        The following sets forth attribution notices for third party libraries that may be
+        contained in this software.
+        \n\n
+        \n----------
+        \n\n
+        \nCopyright © 2012-2018 ZXing authors, Journey Mobile
+        \n
+        \nLicensed under the Apache License, Version 2.0 (the "License");
+        \nyou may not use this file except in compliance with the License.
+        \nYou may obtain a copy of the License at
+        \n
+        \n    http://www.apache.org/licenses/LICENSE-2.0
+        \n
+        \nUnless required by applicable law or agreed to in writing, software
+        \ndistributed under the License is distributed on an "AS IS" BASIS,
+        \nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+        \nSee the License for the specific language governing permissions and
+        \nlimitations under the License.
+        \n\n
+        \n----------
+        \n\n
+        MIT License
+        \nCopyright © 2017 Yuriy Budiyev [yuriy.budiyev@yandex.ru]
+        \n
+        \nPermission is hereby granted, free of charge, to any person obtaining a copy
+        \nof this software and associated documentation files (the "Software"), to deal
+        \nin the Software without restriction, including without limitation the rights
+        \nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+        \ncopies of the Software, and to permit persons to whom the Software is
+        \nfurnished to do so, subject to the following conditions:
+        \n
+        \nThe above copyright notice and this permission notice shall be included in all
+        \ncopies or substantial portions of the Software.
+        \n
+        \nTHE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+        \nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+        \nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+        \nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+        \nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+        \nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+        \nSOFTWARE.
+        \n\n
+        \n----------
+        \n\n
+        Copyright © 2019 Gaurav Kumar
+        \n
+        \nLicensed under the Apache License, Version 2.0 (the "License");
+        \nyou may not use this file except in compliance with the License.
+        \nYou may obtain a copy of the License at
+        \n
+        \n    http://www.apache.org/licenses/LICENSE-2.0
+        \n
+        \nUnless required by applicable law or agreed to in writing, software
+        \ndistributed under the License is distributed on an "AS IS" BASIS,
+        \nWITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+        \nSee the License for the specific language governing permissions and
+        \nlimitations under the License.
+        \n\n
+        \n----------
+        \n\n
+        \nGlide
+        \nLicensed under BSD license
+        \ngithub.com/bumptech/glide
+
+
+    </string>
+    <string name="termsAndConditions">This End-User License Agreement ("EULA") is a legal agreement between you and Erlite.
+\n
+\nThis EULA agreement governs your acquisition and use of our Lite-qr software ("Software") directly from Erlite or indirectly through a Erlite authorized reseller or distributor (a "Reseller").
+\n
+\nPlease read this EULA agreement carefully before  using the Lite-qr software. It provides a license to use the Lite-qr software and contains warranty information and liability disclaimers.
+\n
+\nIf you register for a free trial of the Lite-qr software, this EULA agreement will also govern that trial. By installing and/or using the Lite-qr software, you are confirming your acceptance of the Software and agreeing to become bound by the terms of this EULA agreement.
+\n
+\nIf you are entering into this EULA agreement on behalf of a company or other legal entity, you represent that you have the authority to bind such entity and its affiliates to these terms and conditions. If you do not have such authority or if you do not agree with the terms and conditions of this EULA agreement, do not install or use the Software, and you must not accept this EULA agreement.
+\n
+\nThis EULA agreement shall apply only to the Software supplied by Erlite herewith regardless of whether other software is referred to or described herein. The terms also apply to any Erlite updates, supplements, Internet-based services, and support services for the Software, unless other terms accompany those items on delivery. If so, those terms apply.
+\n
+\nLicense Grant
+\nErlite hereby grants you a personal, non-transferable, non-exclusive licence to use the Lite-qr software on your devices in accordance with the terms of this EULA agreement.
+\n
+\nYou are permitted to load the Lite-qr software (for example a mobile or tablet) under your control. You are responsible for ensuring your device meets the minimum requirements of the Lite-qr software.
+\n
+\nYou are not permitted to:
+\n
+\nUse the Software in any way which breaches any applicable local, national or international law
+\nuse the Software for any purpose that Erlite considers is a breach of this EULA agreement
+\nIntellectual Property and Ownership
+\nErlite shall at all times retain ownership of the Software as originally downloaded by you and all subsequent downloads of the Software by you. The Software (and the copyright, and other intellectual property rights of whatever nature in the Software, including any modifications made thereto) are and shall remain the property of Erlite.
+\n
+\nErlite reserves the right to grant licences to use the Software to third parties.
+\n
+\nTermination
+\nThis EULA agreement is effective from the date you first use the Software and shall continue until terminated. You may terminate it at any time upon uninstalling the app.
+\n
+\nIt will also terminate immediately if you fail to comply with any term of this EULA agreement. Upon such termination, the licenses granted by this EULA agreement will immediately terminate and you agree to stop all access and use of the Software. The provisions that by their nature continue and survive will survive any termination of this EULA agreement.
+\n
+\nGoverning Law
+\nThis EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of ng.
+ </string>
+    <string name="librariesUsed">
+        Thanks to all the creators of the following libraries:
+
+        \n\ncom.journeyapps:zxing-android-embedded;
+        \n\ncom.budiyev.android:code-scanner;
+        \n\ncom.github.bumptech.glide:glide;
+        \n\ncom.gauravk.bubblenavigation:bubblenavigation;
+    </string>
+
+
+    <string name="about">
+        This app was developed to make link and text sharing easier by converting them to images that can be shared (QR-codes).
+        \n\nThis app collects no data of any type.
+    </string>
+
+</resources>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolBar"
+        android:layout_width="match_parent"
+        android:background="@color/whiteBg"
+        android:layout_height="?actionBarSize"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/app_name"
+            android:gravity="center_horizontal"
+            android:textColor="@color/themeColor1"/>
+
+    </androidx.appcompat.widget.Toolbar>
+
+    <FrameLayout
+        android:id="@+id/fragment_container"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:background="@color/whiteBg"
+        app:layout_constraintBottom_toTopOf="@+id/bubbleNavBar"
+        app:layout_constraintEnd_toEndOf="@+id/toolBar"
+        app:layout_constraintStart_toStartOf="@+id/toolBar"
+        app:layout_constraintTop_toBottomOf="@+id/toolBar">
+
+    </FrameLayout>
+
+    <com.gauravk.bubblenavigation.BubbleNavigationLinearView
+        android:id="@+id/bubbleNavBar"
+        android:layout_width="match_parent"
+        android:background="@color/whiteBg"
+        android:layout_height="80dp"
+        app:layout_constraintBottom_toBottomOf="parent">
+
+        <com.gauravk.bubblenavigation.BubbleToggleView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/bubbleColor"
+            android:id="@+id/bubble_encode"
+            app:bt_title="Encode"
+            app:bt_icon="@drawable/ic_code"
+            app:bt_active="true"
+            app:bt_colorActive="@color/themeColor1"
+            app:bt_colorInactive="@color/bubbleIconColor1"/>
+
+        <com.gauravk.bubblenavigation.BubbleToggleView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/bubbleColor"
+            android:id="@+id/bubble_scan"
+            app:bt_title="Scan"
+            app:bt_icon="@drawable/ic_search"
+            app:bt_active="true"
+            app:bt_colorActive="@color/themeColor2"
+            app:bt_colorInactive="@color/bubbleIconColor2"/>
+
+        <com.gauravk.bubblenavigation.BubbleToggleView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:backgroundTint="@color/bubbleColor"
+            android:id="@+id/bubble_menu"
+            app:bt_title="Menu"
+            app:bt_icon="@drawable/ic_menu"
+            app:bt_active="true"
+            app:bt_colorActive="@color/themeColor3"
+            app:bt_colorInactive="@color/bubbleIconColor3"/>
+
+
+    </com.gauravk.bubblenavigation.BubbleNavigationLinearView>
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

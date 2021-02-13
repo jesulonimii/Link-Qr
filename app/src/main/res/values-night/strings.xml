@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Link-QR</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="scannedTextHere">Scanned text would appear here...</string>
+</resources>

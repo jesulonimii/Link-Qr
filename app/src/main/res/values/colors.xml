@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="whiteBg">#ECECEC</color>
+    <color name="cardBg">#ffffff</color>
+    <color name="themeColor1">#02609C</color>
+    <color name="themeColor2">#DC5800</color>
+    <color name="themeColor3">#DC0093</color>
+    <color name="fixedWhiteText">#FFFFFF</color>
+    <color name="fixedBlackText">#000000</color>
+
+    <color name="bubbleIconColor1">#000000</color>
+    <color name="bubbleIconColor2">#000000</color>
+    <color name="bubbleIconColor3">#000000</color>
+
+    <color name="fixedBlackTransparent">#BF000000</color>
+    <color name="alertColor">#FF0000</color>
+    <color name="successColor">#08A339</color>
+    <color name="blackTextColor">#000000</color>
+    <color name="greyTextColor">#333333</color>
+    <color name="textHintColor">#787575</color>
+
+    <color name="bubbleColor">#e4e4e4</color>
+
+</resources>
