@@ -38,7 +38,7 @@ If you want to contribute to this project, you're always welcome! See [Contribut
 To promote your content in-app, feel free to <a href="mailto:erlite.team@gmail.com">send an email</a>
 
 ## Open Source Licenses
-Please refer to the app info section of the app.
+Please refer to the app info section of in-app.
 
 
 ## License
