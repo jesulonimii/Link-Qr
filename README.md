@@ -37,7 +37,7 @@ Link-Qr is an android application written in java for creating QR codes, scannin
 
 ## Contribution 🙋‍♂️
 
-If you want to contribute to this project, you're always welcome! See [Contributing Guidelines](CONTRIBUTING.md). You can also reach out to [@jesulonimii](https://twitter.com/jesulonimii) on twitter.
+If you want to contribute to this project, you're always welcome! See [Contributing Guidelines](CONTRIBUTION.md). You can also reach out to [@jesulonimii](https://twitter.com/jesulonimii) on twitter.
 
 ## Content Promotion
 To promote your content in-app, feel free to <a href="mailto:erlite.team@gmail.com">send an email</a>
