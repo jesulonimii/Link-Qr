@@ -15,7 +15,7 @@ Published via [Erlite](https://github.com/erliteHq) ([@erliteHq](https://twitter
 Download Link-Qr v1.0 [here](https://bit.ly/2MUKVCB)
 
 
-<iframe style="border: none;" src="https://cards.producthunt.com/cards/posts/284118?v=1" width="500" height="405" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<a href="https://www.producthunt.com/posts/link-qr?utm_source=badge-review&utm_medium=badge&utm_souce=badge-link-qr#discussion-body" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/review.svg?post_id=284118&theme=dark" alt="Link-qr - Moving web links easily with QR Code. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
 # 
 <img src="https://user-images.githubusercontent.com/70331030/107851963-e9bc6400-6e0d-11eb-8486-726335db1649.jpeg" width="50%"/>
