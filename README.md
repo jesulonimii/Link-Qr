@@ -12,8 +12,11 @@ Written by [Jesulonimi William](https://twitter.com/jesulonimii).
 
 Published via [Erlite](https://github.com/erliteHq) ([@erliteHq](https://twitter.com/erliteHq))
 
-Download Link-Qr v1.0 [here](https://bit.ly/2MUKVCB)
 
+
+***You can Install Link Qr v1.0 app from below 👇***
+
+[![Link-Qr App](https://img.shields.io/badge/Link--Qr-apk-red?style=for-the-badge&logo=android)](https://bit.ly/2MUKVCB)
 
 <a href="https://www.producthunt.com/posts/link-qr?utm_source=badge-review&utm_medium=badge&utm_souce=badge-link-qr#discussion-body" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/review.svg?post_id=284118&theme=dark" alt="Link-qr - Moving web links easily with QR Code. | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" /></a>
 
