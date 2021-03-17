@@ -1,8 +1,8 @@
 # Link-Qr
-[![GitHub issues](https://img.shields.io/github/issues/jesulonimii/Link-Qr?style=social)](https://github.com/jesulonimii/Link-Qr/issues)
-[![GitHub forks](https://img.shields.io/github/forks/jesulonimii/Link-Qr?style=flat-square)](https://github.com/jesulonimii/Link-Qr/network) 
-[![GitHub stars](https://img.shields.io/github/stars/jesulonimii/Link-Qr?style=flat-square)](https://github.com/jesulonimii/Link-Qr/stargazers) 
-[![GitHub license](https://img.shields.io/github/license/jesulonimii/Link-Qr?style=flat-square)](https://github.com/jesulonimii/Link-Qr)  
+[![GitHub issues](https://img.shields.io/github/issues/jesulonimii/Link-Qr?style=for-the-badge)](https://github.com/jesulonimii/Link-Qr/issues)
+[![GitHub forks](https://img.shields.io/github/forks/jesulonimii/Link-Qr?style=for-the-badge)](https://github.com/jesulonimii/Link-Qr/network) 
+[![GitHub stars](https://img.shields.io/github/stars/jesulonimii/Link-Qr?style=for-the-badge)](https://github.com/jesulonimii/Link-Qr/stargazers) 
+[![GitHub license](https://img.shields.io/github/license/jesulonimii/Link-Qr?style=for-the-badge)](https://github.com/jesulonimii/Link-Qr)  
 
 
 
